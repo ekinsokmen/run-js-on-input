@@ -1,0 +1,19 @@
+{
+  "name": "run-js-on-input",
+  "version": "1.0.0",
+  "description": "Run JavaScript on input data.",
+  "main": "run-js-on-input.js",
+  "bin": {
+    "run-js-on-input": "./run-js-on-input.js"
+  },
+  "keywords": [
+    "javascript",
+    "eval"
+  ],
+  "author": "Ekin Sokmen",
+  "license": "GPLV3",
+  "dependencies": {
+    "commander": "^4.1.0",
+    "optional-js": "^2.1.1"
+  }
+}
